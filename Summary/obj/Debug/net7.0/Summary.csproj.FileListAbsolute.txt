@@ -1,0 +1,15 @@
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\bin\Debug\net7.0\Summary.exe
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\bin\Debug\net7.0\Summary.deps.json
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\bin\Debug\net7.0\Summary.runtimeconfig.json
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\bin\Debug\net7.0\Summary.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\bin\Debug\net7.0\Summary.pdb
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.csproj.AssemblyReference.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.AssemblyInfoInputs.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.AssemblyInfo.cs
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.csproj.CoreCompileInputs.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\refint\Summary.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.pdb
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\Summary.genruntimeconfig.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Summary\obj\Debug\net7.0\ref\Summary.dll
