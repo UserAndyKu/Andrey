@@ -1,0 +1,15 @@
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\bin\Debug\net7.0\Divide.exe
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\bin\Debug\net7.0\Divide.deps.json
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\bin\Debug\net7.0\Divide.runtimeconfig.json
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\bin\Debug\net7.0\Divide.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\bin\Debug\net7.0\Divide.pdb
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.csproj.AssemblyReference.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.GeneratedMSBuildEditorConfig.editorconfig
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.AssemblyInfoInputs.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.AssemblyInfo.cs
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.csproj.CoreCompileInputs.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\refint\Divide.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.pdb
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\Divide.genruntimeconfig.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Divide\obj\Debug\net7.0\ref\Divide.dll
