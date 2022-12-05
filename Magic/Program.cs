@@ -19,7 +19,7 @@ int x = xa, y = yb;
 
 int count = 0;
 
-while(count < 10);
+while(count < 10000)
 {
     int what = new Random().Next(0, 3); 
     if(what == 0)
@@ -40,8 +40,7 @@ while(count < 10);
         y = (y + yc) / 2;
     }
 
-    Console.SetCursorPosition(x , y);
+    Console.SetCursorPosition(x, y);
     Console.WriteLine("+");
-    count = count + 1;
-    
+    count++;
 }
