@@ -1,0 +1,15 @@
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\bin\Debug\net7.0\Condition_If_else.exe
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\bin\Debug\net7.0\Condition_If_else.deps.json
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\bin\Debug\net7.0\Condition_If_else.runtimeconfig.json
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\bin\Debug\net7.0\Condition_If_else.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\bin\Debug\net7.0\Condition_If_else.pdb
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.csproj.AssemblyReference.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.GeneratedMSBuildEditorConfig.editorconfig
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.AssemblyInfoInputs.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.AssemblyInfo.cs
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.csproj.CoreCompileInputs.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\refint\Condition_If_else.dll
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.pdb
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\Condition_If_else.genruntimeconfig.cache
+F:\Программы GeekBrains\Первый урок программирования c#\Condition_If_else\obj\Debug\net7.0\ref\Condition_If_else.dll
